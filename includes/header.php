@@ -1,5 +1,5 @@
 <?php
-	$url = "http://localhost/kilimanjaro/";
+	$url = "https://kilimanjaro-replicate.onrender.com/";
 ?>
 <!DOCTYPE html>
 <html>
