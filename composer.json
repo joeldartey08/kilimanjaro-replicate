@@ -1,6 +1,0 @@
-{
-  "name": "joel/kilimanjaro-replicate",
-  "require": {
-    "php": "^8.1"
-  }
-}
