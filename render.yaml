@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: kkk-php-app     # you can change this name (it's just a label in Render dashboard)
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: php -S 0.0.0.0:$PORT -t .
