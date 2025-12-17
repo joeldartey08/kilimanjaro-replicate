@@ -1,5 +1,5 @@
 <?php
-	include "includes/header.php"
+	include "includes/header.php";
 ?>
 <div class="wrapper-cover">
 	<section class="main">
@@ -125,5 +125,5 @@
 	</section>
 </div>
 <?php
-	include "includes/footer.php"
+	include "includes/footer.php";
 ?>
