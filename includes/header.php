@@ -1,5 +1,5 @@
 <?php
-	$url = "http://localhost/kilimanjaro-replicate/";
+	$url = "https://kilimanjaro-replicate-2023.free.nf/";
 ?>
 <!DOCTYPE html>
 <html>
